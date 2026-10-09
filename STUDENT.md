@@ -6,12 +6,12 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
+| Full Name |Nwite Ekene David |
 | GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Email Address | nwiteekene67@gmail.com |
+| Phone / WhatsApp | 09160236703 |
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
+| Programme Start Date |  |
 | LinkedIn Profile | |
 
 ---
